@@ -69,7 +69,7 @@ const PokemonList = () => {
     ]
 
     return (
-        <div className="">
+        <div className=" ">
             <Dropdown isOpen={firstChoiceOpen} toggle={() => setFirstChoiceOpen(!firstChoiceOpen)}>
                 <DropdownToggle caret>
                     First Pokemon
