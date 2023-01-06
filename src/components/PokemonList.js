@@ -92,8 +92,6 @@ const PokemonList = () => {
                 </DropdownMenu>
             </Dropdown>
         </div>
-
-
     );
 };
 
